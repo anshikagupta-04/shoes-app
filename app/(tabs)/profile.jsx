@@ -8,11 +8,11 @@ const profile = () => {
       {/* Profile Header */}
       <View style={styles.profileHeader}>
         <Image
-          source={{ uri: 'https://media.licdn.com/dms/image/v2/D5603AQGwb2f1ONSERg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725645542157?e=1733356800&v=beta&t=UD9Z__PTaGmL2u5Pbd8xnRecG6hyFIz4MvVWpwFGGoM' }}
+          source={{ uri: 'https://media.licdn.com/dms/image/v2/D5603AQExNgUcKA2iHA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1716311814063?e=1734566400&v=beta&t=gqAaXzBcxFXicAuv7j4egKj3pyl3HMlmSlumbhs5h5M' }}
           style={styles.profileImage}
         />
-        <Text style={styles.username}>Pravin Nandankar</Text>
-        <Text style={styles.email}>pravin@gmail.com</Text>
+        <Text style={styles.username}>Anshika Gupta</Text>
+        <Text style={styles.email}>anshika@gmail.com</Text>
       </View>
 
       {/* Profile Options */}
